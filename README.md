@@ -1,12 +1,13 @@
 👋 Hi, I’m Saksham Kumar Singh
 
-🎓 Computer Science Undergraduate | Passionate about coding, data, and problem-solving
+🎓 Computer Science Undergraduate | Aspiring Data Scientist & Python Developer
 
 💻 Languages: Python, SQL, HTML, CSS, JavaScript
-📚 Coursework: DBMS, OOPs, Data Structures & Algorithms
+📚 Coursework: DBMS, Object-Oriented Programming (OOPs), Data Structures & Algorithms
 📦 Libraries: NumPy, Pandas, Matplotlib, TensorFlow
 🗄️ Database: MySQL
 
-🚀 I love exploring data-driven projects, automating tasks, and building practical solutions with Python.
+🚀 I’m passionate about leveraging data and technology to create efficient, real-world solutions. I enjoy working with Python libraries for data analysis and visualization, and I’m constantly exploring new tools and frameworks to enhance my skill set.
+
 🌱 Currently learning: Machine Learning and Web Development
 📫 Reach me at: singhsaksham22444@gmail.com
